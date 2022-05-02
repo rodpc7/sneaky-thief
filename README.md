@@ -1,1 +1,1 @@
-# SneakyThief
+# sneaky-thief
